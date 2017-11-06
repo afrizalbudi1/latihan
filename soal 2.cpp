@@ -25,7 +25,7 @@ int main(){
 			cout<<""<<endl;
 			cout<<"Input Alas Segitiga = "; cin>>al;
 			cout<<"Input Tinggi Segitiga = "; cin>>t;
-			L=0.5*al*l;
+			L=0.5*al*t;
 			
 			cout << " Jadi Luas segitiganya Adalah   "<<L;
 		}
